@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr Ashraf</h1>
-<h3 align="center">Web developer from Egypt</h3>
+<h3 align="center">Software Engineer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/amrragh89177525" target="blank"><img src="https://img.shields.io/twitter/follow/amrragh89177525?logo=twitter&style=for-the-badge" alt="amrragh89177525" /></a> </p>
 
